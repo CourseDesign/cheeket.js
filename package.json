@@ -29,7 +29,7 @@
     "@typescript-eslint/parser": "^5.62.0",
     "cross-env": "^7.0.3",
     "deepmerge": "^4.3.1",
-    "eslint": "^8.55.0",
+    "eslint": "^8.57.1",
     "eslint-config-airbnb-typescript": "^17.1.0",
     "eslint-plugin-import": "^2.29.0",
     "eslint-plugin-monorepo": "^0.3.2",
