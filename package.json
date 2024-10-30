@@ -33,7 +33,7 @@
     "eslint-config-airbnb-typescript": "^17.1.0",
     "eslint-plugin-import": "^2.31.0",
     "eslint-plugin-monorepo": "^0.3.2",
-    "glob": "^10.3.10",
+    "glob": "^10.4.5",
     "gulp": "^4.0.2",
     "gulp-changed": "^4.0.3",
     "gulp-if": "^3.0.0",
