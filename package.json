@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@nrwl/cli": "15.9.3",
-    "@nrwl/workspace": "17.2.0",
+    "@nrwl/workspace": "17.3.2",
     "@types/jest": "^29.5.14",
     "@types/node": "^18.19.61",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
@@ -42,7 +42,7 @@
     "gulp-uglify": "^3.0.2",
     "husky": "^8.0.3",
     "jest": "^29.7.0",
-    "nx": "17.2.0",
+    "nx": "17.3.2",
     "pinst": "^3.0.0",
     "sort-package-json": "^2.10.1",
     "source-map": "^0.7.4",
