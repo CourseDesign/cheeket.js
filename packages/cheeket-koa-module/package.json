@@ -30,12 +30,12 @@
   },
   "peerDependencies": {
     "@types/accepts": "^1.3.7",
-    "@types/cookies": "^0.7.10",
+    "@types/cookies": "^0.9.0",
     "@types/koa-compose": "^3.2.8",
     "accepts": "^1.3.8",
     "cheeket": "^4.1.0",
     "cheeket-koa": "^1.0.0-alpha.18",
-    "cookies": "^0.8.0",
+    "cookies": "^0.9.1",
     "koa": "^2.15.3"
   }
 }
